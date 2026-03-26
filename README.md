@@ -8,8 +8,7 @@
 본 플랫폼은 Edge AI 기반 자율주행 로봇 개발과 Physical AI 교육을 위한 통합 솔루션입니다.  
 연구, 교육, 실전 경진대회까지 활용 가능한 **All-in-One AI 로봇 플랫폼**입니다.
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e7b928b6-7071-493f-952e-f050d9b4cd99" />
-
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/373b86d0-84f3-4165-af35-6635494810c2" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/e25df7e8-9657-4f91-bfc3-01e9f56fc80b" />
 
 ## ⚙️ 로봇 구조
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/4d2a4687-b286-409f-8d9a-cfd09f1d15f9" />
