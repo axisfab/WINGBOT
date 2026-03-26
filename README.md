@@ -4,8 +4,9 @@
 <img width="916" height="610" alt="image" src="https://github.com/user-attachments/assets/16884100-1ea2-4ddb-b722-e0a619b5e2c3" />
 
 ## 🌟 Introduction
-**BRICKS-ESP32** is a professional-grade **IoT Edge Device** designed by **AxisFab**. It serves as a comprehensive on-device solution for intelligent IoT education and rapid prototype manufacturing. Powered by the **ESP32-S3** chipset, this platform integrates high-performance computing with versatile hardware interfaces.
-
+**BRICKS-ESP32** Edge AI Deep Learning : 고성능 AI엣지컴퓨팅 기반 실시간 객체 탐지 및 상황 인식 시스템 운영
+ALL-Terrain Mobility : 무한궤도 구동형 메탈 바디 설계 고강성 플랫폼
+Intelligent Perception : 지능형 다중 센서와 자율 탐색 로봇 시스템 설계
 ---
 
 ## 🚀 Key Features
