@@ -32,47 +32,19 @@
 
 ## ⚙️ Specifications
 
-### 📏 Physical
-- **Weight**: approx. 2.5 kg
-- **Structure**: Industrial-grade mobile robot chassis
-- **Drive Type**: Tracked (Tank-style)
-
----
-
-### 🧠 AI Computing Board
-- **Model**: NVIDIA Jetson Orin Nano Developer Kit
-- **GPU**: 1024 CUDA Cores + 32 Tensor Cores
-- **CPU**: 6-Core ARM Cortex-A78AE (64-bit)
-
----
-
-### 👁️ Vision System
-- AI Camera Module
-- Real-time Object Detection (YOLOv8 supported)
-- Vision-based Autonomous Navigation
-
----
-
-### 🔌 Connectivity
-- USB / UART / GPIO
-- Wi-Fi / Bluetooth (optional)
-- ROS2 communication support
-
----
-
-### 🔋 Power
-- Battery-powered system
-- Optimized for Edge AI computing
-
----
-
-### 🧩 Expandability
-- Sensor expansion (LiDAR, Ultrasonic, IR)
-- Custom AI model deployment
-- IoT integration 가능
-
----
-
+| Category | Item | Description |
+|----------|------|------------|
+| 🏗️ Physical | Weight | 약 2.5 kg |
+| 🏗️ Physical | Structure | 트랙형(탱크형) 자율주행 로봇 |
+| 🧠 AI Board | Model | NVIDIA Jetson Orin Nano Developer Kit |
+| 🧠 AI Board | GPU | 1024 CUDA Cores + 32 Tensor Cores |
+| 🧠 AI Board | CPU | 6-Core ARM Cortex-A78AE (64-bit) |
+| 👁️ Vision | Camera | AI 카메라 모듈 |
+| 👁️ Vision | 기능 | 객체 인식 / 자율주행 / 실시간 영상 처리 |
+| 🔌 Connectivity | Interface | USB / UART / GPIO |
+| 🔌 Connectivity | Communication | ROS2 기반 통신 |
+| 🔋 Power | Power Source | 배터리 기반 |
+| 🧩 Expandability | 확장성 | 센서 확장 / IoT 연동 / AI 모델 추가 가능 |
 
 
 
