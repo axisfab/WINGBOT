@@ -9,7 +9,7 @@
 연구, 교육, 실전 경진대회까지 활용 가능한 **All-in-One AI 로봇 플랫폼**입니다.
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e7b928b6-7071-493f-952e-f050d9b4cd99" />
 
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/088ac468-4ee9-4aa1-af8d-c0403781c685" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/373b86d0-84f3-4165-af35-6635494810c2" />
 
 ## ⚙️ 로봇 구조
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/4d2a4687-b286-409f-8d9a-cfd09f1d15f9" />
