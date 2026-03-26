@@ -30,7 +30,48 @@
 ---
 <img width="1000" height="836" alt="image" src="https://github.com/user-attachments/assets/088ac468-4ee9-4aa1-af8d-c0403781c685" />
 
+## ⚙️ Specifications
 
+### 📏 Physical
+- **Weight**: approx. 2.5 kg
+- **Structure**: Industrial-grade mobile robot chassis
+- **Drive Type**: Tracked (Tank-style)
+
+---
+
+### 🧠 AI Computing Board
+- **Model**: NVIDIA Jetson Orin Nano Developer Kit
+- **GPU**: 1024 CUDA Cores + 32 Tensor Cores
+- **CPU**: 6-Core ARM Cortex-A78AE (64-bit)
+
+---
+
+### 👁️ Vision System
+- AI Camera Module
+- Real-time Object Detection (YOLOv8 supported)
+- Vision-based Autonomous Navigation
+
+---
+
+### 🔌 Connectivity
+- USB / UART / GPIO
+- Wi-Fi / Bluetooth (optional)
+- ROS2 communication support
+
+---
+
+### 🔋 Power
+- Battery-powered system
+- Optimized for Edge AI computing
+
+---
+
+### 🧩 Expandability
+- Sensor expansion (LiDAR, Ultrasonic, IR)
+- Custom AI model deployment
+- IoT integration 가능
+
+---
 
 
 
