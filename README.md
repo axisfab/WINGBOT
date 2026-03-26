@@ -10,46 +10,6 @@
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/e7b928b6-7071-493f-952e-f050d9b4cd99" />
 
 ---
-## 🎯 Key Features
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Edge AI 기반 자율주행</h3>
-      <ul>
-        <li>실시간 영상 처리 및 객체 인식</li>
-        <li>자율 주행 및 장애물 회피</li>
-        <li>센서 융합 기반 판단 시스템</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 AI 교육 최적화 플랫폼</h3>
-      <ul>
-        <li>Python 기반 AI 학습 환경</li>
-        <li>Jupyter Notebook 실습 지원</li>
-        <li>초급 ~ 고급 단계별 커리큘럼</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ Physical AI 통합 구조</h3>
-      <ul>
-        <li>하드웨어 + 소프트웨어 통합 설계</li>
-        <li>실제 로봇 기반 실습 가능</li>
-        <li>산업/국방형 시나리오 대응</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏁 경진대회 및 연구 활용</h3>
-      <ul>
-        <li>AI 자율주행 대회 대응</li>
-        <li>국방/로봇 경진대회 활용 가능</li>
-        <li>실전 문제 해결 중심 설계</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 <img width="1000" height="836" alt="image" src="https://github.com/user-attachments/assets/088ac468-4ee9-4aa1-af8d-c0403781c685" />
 
