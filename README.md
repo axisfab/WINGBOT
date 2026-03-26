@@ -11,22 +11,22 @@
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/088ac468-4ee9-4aa1-af8d-c0403781c685" />
 
 ## ⚙️ 로봇 구조
-<img width="900"" alt="image" src="https://github.com/user-attachments/assets/4d2a4687-b286-409f-8d9a-cfd09f1d15f9" />
+<img width="900"alt="image" src="https://github.com/user-attachments/assets/4d2a4687-b286-409f-8d9a-cfd09f1d15f9" />
 
 ## ⚙️ 시스템 구성
-<img width="900"" alt="image" src="https://github.com/user-attachments/assets/4bdb806e-b0ec-41ee-9303-f415333584ca" />
+<img width="900"alt="image" src="https://github.com/user-attachments/assets/4bdb806e-b0ec-41ee-9303-f415333584ca" />
 
 ## ⚙️ AI보드
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/ccfc5671-44c9-47bf-8762-30e06ead3247" />
+<img width="900"alt="image" src="https://github.com/user-attachments/assets/ccfc5671-44c9-47bf-8762-30e06ead3247" />
 
 ## ⚙️ 지능형 제어보드
-<img width="900"  alt="image" src="https://github.com/user-attachments/assets/5329c21f-cfef-4249-ad0f-13fd010cc4c9" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/5329c21f-cfef-4249-ad0f-13fd010cc4c9" />
 
 ## ⚙️ 주변 장치
-<img width="900"  alt="image" src="https://github.com/user-attachments/assets/ea7cf142-f69c-463e-9827-9b8168c842d2" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/ea7cf142-f69c-463e-9827-9b8168c842d2" />
 
 ## ⚙️ API
-<img width="900"  alt="image" src="https://github.com/user-attachments/assets/3b0d82b0-9ae7-407d-8c4d-c3ef9cb59f07" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/3b0d82b0-9ae7-407d-8c4d-c3ef9cb59f07" />
 
 ## ⚙️ Specifications
 | Category | Item | Description |
