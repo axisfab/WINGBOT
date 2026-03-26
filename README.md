@@ -1,8 +1,7 @@
 # WINGBOT: Autonomous Reconnaissance Mission Robot Platform
 > **AI 기반 자율 정찰 로봇 WINGBOT
 **
-
-![BRICKS-ESP32](./img/bricks_esp32.png)
+<img width="916" height="610" alt="image" src="https://github.com/user-attachments/assets/16884100-1ea2-4ddb-b722-e0a619b5e2c3" />
 
 ## 🌟 Introduction
 **BRICKS-ESP32** is a professional-grade **IoT Edge Device** designed by **AxisFab**. It serves as a comprehensive on-device solution for intelligent IoT education and rapid prototype manufacturing. Powered by the **ESP32-S3** chipset, this platform integrates high-performance computing with versatile hardware interfaces.
