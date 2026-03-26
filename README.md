@@ -13,7 +13,7 @@
 ## 🎯 Key Features
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 ### 🚀 Edge AI 기반 자율주행
 - 실시간 영상 처리 및 객체 인식  
