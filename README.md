@@ -1,9 +1,7 @@
 # WINGBOT: Autonomous Reconnaissance Mission Robot Platform
 > **AI 기반 자율 정찰 로봇 WINGBOT
 **
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/e7b928b6-7071-493f-952e-f050d9b4cd99" />
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/16884100-1ea2-4ddb-b722-e0a619b5e2c3" />
-
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/e7b928b6-7071-493f-952e-f050d9b4cd99" />
 
 ## 📌 Overview
 본 플랫폼은 Edge AI 기반 자율주행 로봇 개발과 Physical AI 교육을 위한 통합 솔루션입니다.  
